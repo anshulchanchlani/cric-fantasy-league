@@ -3,7 +3,7 @@ winston.emitErrs = true;
 const fs = require('fs');
 
 // Create directory for logs if doesn't already exist.
-var dir = './../../logs';
+var dir = '/logs';
 if(!fs.existsSync(dir)){
   fs.mkdirSync(dir);
 }

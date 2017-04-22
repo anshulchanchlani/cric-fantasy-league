@@ -33,6 +33,7 @@
     "helmet": "^3.5.0",
     "morgan": "^1.8.1",
     "node-cricapi": "^1.2.5",
+    "seneca": "^3.3.0",
     "winston": "^2.3.1"
   }
 }

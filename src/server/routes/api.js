@@ -22,4 +22,15 @@ router.get('/:id',function (req,res) {
   logger.info("Exiting api:GET /");
 });
 
+
+//GET /matches --- returns the list of matches
+router.get('/matches', function (req,res) {
+  logger.info("Received request for GET /matches");
+  cricapi.cricketMatches(function(databundle) {
+  	logger.info(databundle);
+    res.send(databundle);
+  });
+  logger.info("Exiting api:GET /matches");
+});
+
 module.exports = router;
