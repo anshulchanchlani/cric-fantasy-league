@@ -10,18 +10,21 @@ var cricapiClient = axios.create({
   headers: {'Content-Type': 'application/json'}
 });
 
-seneca.add({role: 'caller', action: 'matches'}, function(msg,callback) {
-  cricapiClient.post('/matches', {
-    apikey: APIKEY
+seneca.add({role: 'caller', action: 'ball'}, function(msg,callback) {
+  logger.info(msg.id);
+  cricapiClient.post('/ballByBall', {
+    apikey: APIKEY,
+    unique_id: msg.id
   })
   .then(function (response) {
+    console.log(response.data);
     callback(response.data);
   })
   .catch(function (error) {
-    logger.info("ERR:matchListService:caller:matches - "+error);
+    logger.info("ERR:ballByBallService:caller:score - "+error);
     return error
   });
 });
 
-seneca.listen(PORTS.matchListService);
-logger.info("matchListService: "+"running on "+PORTS.matchListService);
+seneca.listen(PORTS.ballByBallService);
+logger.info("ballByBallService: "+"running on "+PORTS.ballByBallService);
