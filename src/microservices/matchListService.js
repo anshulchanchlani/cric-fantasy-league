@@ -15,6 +15,7 @@ seneca.add({role: 'caller', action: 'matches'}, function(msg,callback) {
     apikey: APIKEY
   })
   .then(function (response) {
+    logger.info("matchListService:caller:matches Request Received ")
     callback(response.data);
   })
   .catch(function (error) {

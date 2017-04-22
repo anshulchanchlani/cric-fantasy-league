@@ -17,7 +17,7 @@ seneca.add({role: 'caller', action: 'ball'}, function(msg,callback) {
     unique_id: msg.id
   })
   .then(function (response) {
-    console.log(response.data);
+    logger.info("ballByBallService:caller:ball Request Received ")
     callback(response.data);
   })
   .catch(function (error) {
