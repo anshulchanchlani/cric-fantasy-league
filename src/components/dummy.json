@@ -1,0 +1,572 @@
+ {
+  "matches": [
+    {
+      "unique_id": 1070905,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Mashonaland Eagles",
+      "team-1": "Matabeleland Tuskers",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1047977,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Khyber Pakhtunkhwa",
+      "team-1": "Balochistan",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1082615,
+      "team-2": "Sunrisers Hyderabad",
+      "team-1": "Rising Pune Supergiant",
+      "matchStarted": false,
+      "squad": true,
+      "date": "2017-04-22T00:00:00.000Z"
+    },
+    {
+      "unique_id": 1082614,
+      "team-2": "Delhi Daredevils",
+      "team-1": "Mumbai Indians",
+      "matchStarted": false,
+      "squad": true,
+      "date": "2017-04-22T00:00:00.000Z"
+    },
+    {
+      "unique_id": 1077953,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Pakistan",
+      "team-1": "West Indies",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1068537,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Yorkshire",
+      "team-1": "Hampshire",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1068535,
+      "date": "2017-04-22T00:00:00.000Z",
+      "team-2": "Somerset",
+      "team-1": "Lancashire",
+      "matchStarted": true,
+      "squad": false
+    },
+    {
+      "unique_id": 1068538,
+      "date": "2017-04-22T00:00:00.000Z",
+      "team-2": "Surrey",
+      "team-1": "Warwickshire",
+      "matchStarted": true,
+      "squad": false
+    },
+    {
+      "unique_id": 1068596,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Durham",
+      "team-1": "Gloucestershire",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1068595,
+      "date": "2017-04-22T00:00:00.000Z",
+      "team-2": "Derbyshire",
+      "team-1": "Kent",
+      "matchStarted": true,
+      "squad": false
+    },
+    {
+      "unique_id": 1068594,
+      "date": "2017-04-22T00:00:00.000Z",
+      "team-2": "Glamorgan",
+      "team-1": "Leicestershire",
+      "matchStarted": true,
+      "squad": false
+    },
+    {
+      "unique_id": 1068593,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Sussex",
+      "team-1": "Nottinghamshire",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1068592,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Northamptonshire",
+      "team-1": "Worcestershire",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1071102,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Leeward Islands",
+      "team-1": "Guyana",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1068536,
+      "date": "2017-04-22T00:00:00.000Z",
+      "team-2": "Essex",
+      "team-1": "Middlesex",
+      "matchStarted": true,
+      "squad": false
+    },
+    {
+      "unique_id": 1089470,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Bhutan",
+      "team-1": "Thailand",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1089471,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Saudi Arabia",
+      "team-1": "China",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1090904,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Ireland A",
+      "team-1": "Bath CC",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1089796,
+      "date": "2017-04-22T00:00:00.000Z",
+      "team-2": "Kuala Lumpur",
+      "team-1": "Universiti Kebangsaan Malaysia",
+      "matchStarted": true,
+      "squad": true
+    },
+    {
+      "unique_id": 1090903,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Ireland A",
+      "team-1": "Gloucestershire 2nd XI",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1089718,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Dhangadhi Team Chauraha",
+      "team-1": "Biratnagar Kings",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1089795,
+      "date": "2017-04-22T00:00:00.000Z",
+      "team-2": "Selangor",
+      "team-1": "Penang",
+      "matchStarted": true,
+      "squad": true
+    },
+    {
+      "unique_id": 1089472,
+      "date": "2017-04-22T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Qatar",
+      "team-1": "Kuwait",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1082617,
+      "team-2": "Royal Challengers Bangalore",
+      "team-1": "Kolkata Knight Riders",
+      "matchStarted": false,
+      "squad": true,
+      "date": "2017-04-23T00:00:00.000Z"
+    },
+    {
+      "unique_id": 1082616,
+      "team-2": "Kings XI Punjab",
+      "team-1": "Gujarat Lions",
+      "matchStarted": false,
+      "squad": true,
+      "date": "2017-04-23T00:00:00.000Z"
+    },
+    {
+      "unique_id": 1047987,
+      "date": "2017-04-23T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Punjab (Pakistan)",
+      "team-1": "Khyber Pakhtunkhwa",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1047993,
+      "date": "2017-04-23T00:00:00.000Z",
+      "team-2": "Punjab (Pakistan)",
+      "team-1": "Federal Areas",
+      "matchStarted": false,
+      "squad": true
+    },
+    {
+      "unique_id": 1089473,
+      "date": "2017-04-23T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Bahrain",
+      "team-1": "Thailand",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1089474,
+      "date": "2017-04-23T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Bhutan",
+      "team-1": "Qatar",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1089475,
+      "date": "2017-04-23T00:00:00.000Z",
+      "squad": true,
+      "team-2": "China",
+      "team-1": "Kuwait",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1089653,
+      "date": "2017-04-23T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Sri Lanka Under-19s",
+      "team-1": "Australia Under-19s",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1058618,
+      "date": "2017-04-23T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Hong Kong Cricket Club",
+      "team-1": "Cricket Hong Kong Independents XI",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1058617,
+      "date": "2017-04-23T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Diasqua Little Sai Wan Cricket Club",
+      "team-1": "Kowloon Cricket Club",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1090906,
+      "date": "2017-04-23T00:00:00.000Z",
+      "team-2": "Ireland A",
+      "team-1": "Bristol University",
+      "matchStarted": false,
+      "squad": false
+    },
+    {
+      "unique_id": 1090905,
+      "date": "2017-04-23T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Ireland A",
+      "team-1": "Gloucestershire 2nd XI",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1089797,
+      "date": "2017-04-23T00:00:00.000Z",
+      "team-2": "Selangor",
+      "team-1": "Penang",
+      "matchStarted": false,
+      "squad": true
+    },
+    {
+      "unique_id": 1089798,
+      "date": "2017-04-23T00:00:00.000Z",
+      "team-2": "Kuala Lumpur",
+      "team-1": "Universiti Kebangsaan Malaysia",
+      "matchStarted": false,
+      "squad": true
+    },
+    {
+      "unique_id": 1093251,
+      "date": "2017-04-23T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Northumberland",
+      "team-1": "Cambridgeshire",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1093451,
+      "date": "2017-04-23T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Sheikh Jamal Dhanmondi Club",
+      "team-1": "Abahani Limited",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1093453,
+      "date": "2017-04-23T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Kalabagan Krira Chakra",
+      "team-1": "Legends of Rupganj",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1093452,
+      "date": "2017-04-23T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Gazi Group Cricketers",
+      "team-1": "Prime Doleshwar Sporting Club",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1082618,
+      "team-2": "Rising Pune Supergiant",
+      "team-1": "Mumbai Indians",
+      "matchStarted": false,
+      "squad": true,
+      "date": "2017-04-24T00:00:00.000Z"
+    },
+    {
+      "unique_id": 1093456,
+      "date": "2017-04-24T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Partex Sporting Club",
+      "team-1": "Brothers Union",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1093455,
+      "date": "2017-04-24T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Khelaghar Samaj Kallyan Samity",
+      "team-1": "Mohammedan Sporting Club",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1093454,
+      "date": "2017-04-24T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Prime Bank Cricket Club",
+      "team-1": "Victoria Sporting Club",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1082619,
+      "team-2": "Sunrisers Hyderabad",
+      "team-1": "Royal Challengers Bangalore",
+      "matchStarted": false,
+      "squad": true,
+      "date": "2017-04-25T00:00:00.000Z"
+    },
+    {
+      "unique_id": 1047989,
+      "date": "2017-04-25T00:00:00.000Z",
+      "team-2": "Sindh",
+      "team-1": "Khyber Pakhtunkhwa",
+      "matchStarted": false,
+      "squad": true
+    },
+    {
+      "unique_id": 1089478,
+      "date": "2017-04-25T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Saudi Arabia",
+      "team-1": "Bahrain",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1089476,
+      "date": "2017-04-25T00:00:00.000Z",
+      "squad": true,
+      "team-2": "China",
+      "team-1": "Bhutan",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1089477,
+      "date": "2017-04-25T00:00:00.000Z",
+      "team-2": "Qatar",
+      "team-1": "Thailand",
+      "matchStarted": false,
+      "squad": true
+    },
+    {
+      "unique_id": 1082620,
+      "team-2": "Kolkata Knight Riders",
+      "team-1": "Rising Pune Supergiant",
+      "matchStarted": false,
+      "squad": true,
+      "date": "2017-04-26T00:00:00.000Z"
+    },
+    {
+      "unique_id": 1047983,
+      "date": "2017-04-26T00:00:00.000Z",
+      "team-2": "Federal Areas",
+      "team-1": "Balochistan",
+      "matchStarted": false,
+      "squad": true
+    },
+    {
+      "unique_id": 1093457,
+      "date": "2017-04-26T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Gazi Group Cricketers",
+      "team-1": "Abahani Limited",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1093459,
+      "date": "2017-04-26T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Prime Bank Cricket Club",
+      "team-1": "Legends of Rupganj",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1093458,
+      "date": "2017-04-26T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Kalabagan Krira Chakra",
+      "team-1": "Prime Doleshwar Sporting Club",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1089480,
+      "date": "2017-04-26T00:00:00.000Z",
+      "team-2": "Bahrain",
+      "team-1": "Qatar",
+      "matchStarted": false,
+      "squad": true
+    },
+    {
+      "unique_id": 1089481,
+      "date": "2017-04-26T00:00:00.000Z",
+      "team-2": "Thailand",
+      "team-1": "China",
+      "matchStarted": false,
+      "squad": true
+    },
+    {
+      "unique_id": 1089479,
+      "date": "2017-04-26T00:00:00.000Z",
+      "team-2": "Kuwait",
+      "team-1": "Saudi Arabia",
+      "matchStarted": false,
+      "squad": true
+    },
+    {
+      "unique_id": 1089799,
+      "date": "2017-04-26T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Malaysian Armed Forces",
+      "team-1": "Kuala Lumpur",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1047979,
+      "date": "2017-04-27T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Sindh",
+      "team-1": "Punjab (Pakistan)",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1082621,
+      "team-2": "Gujarat Lions",
+      "team-1": "Royal Challengers Bangalore",
+      "matchStarted": false,
+      "squad": true,
+      "date": "2017-04-27T00:00:00.000Z"
+    },
+    {
+      "unique_id": 1093462,
+      "date": "2017-04-27T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Khelaghar Samaj Kallyan Samity",
+      "team-1": "Brothers Union",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1093461,
+      "date": "2017-04-27T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Partex Sporting Club",
+      "team-1": "Sheikh Jamal Dhanmondi Club",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1093460,
+      "date": "2017-04-27T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Mohammedan Sporting Club",
+      "team-1": "Victoria Sporting Club",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1068435,
+      "date": "2017-04-27T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Derbyshire",
+      "team-1": "Durham",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1068433,
+      "date": "2017-04-27T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Glamorgan",
+      "team-1": "Gloucestershire",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1068434,
+      "date": "2017-04-27T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Hampshire",
+      "team-1": "Kent",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1068431,
+      "date": "2017-04-27T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Sussex",
+      "team-1": "Middlesex",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1068432,
+      "date": "2017-04-27T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Nottinghamshire",
+      "team-1": "Worcestershire",
+      "matchStarted": false
+    },
+    {
+      "unique_id": 1068430,
+      "date": "2017-04-27T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Warwickshire",
+      "team-1": "Northamptonshire",
+      "matchStarted": false
+    }
+  ],
+  "v": "1",
+  "ttl": 9,
+  "provider": {
+    "source": "Various",
+    "url": "https://cricapi.com/",
+    "pubDate": "2017-04-22T10:00:04.041Z"
+  },
+  "creditsLeft": 998
+}
